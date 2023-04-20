@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2584d4a3f09bc4f439226cfb5a1ac7b2, type: 3}
+  m_Name: Body_1
+  m_EditorClassIdentifier: 
+  bodyPartName: White
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: b204f32224c7f3142819340d916bab44, type: 2}
+  - {fileID: 7400000, guid: ed6ef071c1a000d4ea67e1a17d56d4a5, type: 2}
+  - {fileID: 7400000, guid: 432e3391b061b354881ad9098a2d30c2, type: 2}
+  - {fileID: 7400000, guid: fa0cd3848ea0f7b41a4105af3a39fa37, type: 2}
+  - {fileID: 7400000, guid: 63468efe9b4a2344c979d21486e44a82, type: 2}

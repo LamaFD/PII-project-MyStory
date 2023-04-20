@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2584d4a3f09bc4f439226cfb5a1ac7b2, type: 3}
+  m_Name: Hair_2
+  m_EditorClassIdentifier: 
+  bodyPartName: Tresses longues
+  bodyPartAnimationID: 2
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 908f51fb764599c4b961ecfbc9c14c16, type: 2}
+  - {fileID: 7400000, guid: d5f16b2197c702d4d9a9cc660b5014ab, type: 2}
+  - {fileID: 7400000, guid: 843f9cfd374907747b49e830a52cb806, type: 2}
+  - {fileID: 7400000, guid: 6d262aacfba3efc41af1feabd3835531, type: 2}
+  - {fileID: 7400000, guid: cd6925e99716bcd4da96f187f3497389, type: 2}

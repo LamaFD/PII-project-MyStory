@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2584d4a3f09bc4f439226cfb5a1ac7b2, type: 3}
+  m_Name: Body_2
+  m_EditorClassIdentifier: 
+  bodyPartName: Brun
+  bodyPartAnimationID: 2
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 34e84c12777c4674cb7754162d365130, type: 2}
+  - {fileID: 7400000, guid: bf502f65ae2cce5419e716af2779aa85, type: 2}
+  - {fileID: 7400000, guid: 2fcfb2943be8e554288b9f002139dbee, type: 2}
+  - {fileID: 7400000, guid: 6b7c9dba18af5e04280f3fe8e57ee908, type: 2}
+  - {fileID: 7400000, guid: 76086111e0c1b2a4aa69d43015b050fc, type: 2}

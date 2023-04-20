@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2584d4a3f09bc4f439226cfb5a1ac7b2, type: 3}
+  m_Name: Hair_1
+  m_EditorClassIdentifier: 
+  bodyPartName: Bob bleu
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: a5572092ae0bbe442b9e47642551f8b4, type: 2}
+  - {fileID: 7400000, guid: a69e5c677ee53b140a9746b7fc326b6b, type: 2}
+  - {fileID: 7400000, guid: 3de979547665f2e4ca5198abea977125, type: 2}
+  - {fileID: 7400000, guid: 6c98637c3b4874542a2def410d43c270, type: 2}
+  - {fileID: 7400000, guid: cd6925e99716bcd4da96f187f3497389, type: 2}
