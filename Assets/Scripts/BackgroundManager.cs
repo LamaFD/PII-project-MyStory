@@ -20,6 +20,5 @@ public class BackgroundManager : MonoBehaviour
     public void ChangeBackground(int emotionID)
     {
         backgroundSpriteRenderer.sprite = backgroundImages[emotionID];
-        Debug.Log("emotion: "+emotionID);
     }
 }

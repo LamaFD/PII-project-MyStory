@@ -44,6 +44,7 @@ public class InteractionManager : MonoBehaviour
     }
 
     // Set all element to start an interaction cycle
+    // Associated to the button Continue in the dialogue box
     public void SetElementsForStart()
     {
         // Hide all boxes except box of speaker choice

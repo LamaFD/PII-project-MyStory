@@ -439,7 +439,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1328565379}
         m_TargetAssemblyTypeName: InteractionManager, Assembly-CSharp
-        m_MethodName: DesactivatePanels
+        m_MethodName: SetElementsForStart
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
