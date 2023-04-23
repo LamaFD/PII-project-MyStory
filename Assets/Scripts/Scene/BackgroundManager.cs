@@ -17,6 +17,8 @@ public class BackgroundManager : MonoBehaviour
         backgroundSpriteRenderer.sprite = backgroundImages[0];
     }
 
+    // Changes background of the interaction depending on the emotion chosen
+    // Used in GameManager
     public void ChangeBackground(int emotionID)
     {
         backgroundSpriteRenderer.sprite = backgroundImages[emotionID];

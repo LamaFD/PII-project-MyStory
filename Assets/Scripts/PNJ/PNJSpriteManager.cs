@@ -15,7 +15,7 @@ public class PNJSpriteManager : MonoBehaviour
         ChangePNJSprite();
     }
 
-    // Allows the change of the sprite
+    // Changes the sprite
     void ChangePNJSprite()
     {
         // Get the id of the pnj from the GameManager
